@@ -1,0 +1,25 @@
+span{
+    text-align: center;
+}
+table{
+    margin:30px;
+    border-collapse: collapse;
+    border: 1px solid black;
+
+}
+thead{
+    font-weight: bold;
+}
+td{
+    padding:10px;
+    border: 1px solid black;
+}
+tfoot{
+    text-align: center;
+}
+.vert{
+    color:green;
+}
+.rouge{
+    color:red;
+}
